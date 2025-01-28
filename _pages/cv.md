@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV [PDF](files/CV_nmoreau.pdf)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+Version [PDF](files/CV_nmoreau.pdf)
 
 # Academic Background
 
@@ -30,7 +32,6 @@ Research focus: Deep learning for the segmentation and characterization of PET/C
 ### 2015 - 2019 : Engineering Degree in Computer Science, Polytech Nantes and Tours, France
 
 ### 2014 - 2015: First year of Medical School, Angers University, France
-
 
 # Research activities
 ## Research Projects:
