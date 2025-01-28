@@ -16,7 +16,7 @@ author_profile: true
 
 ## International Conferences
 
-* **Moreau, N.**, Shabani, M., Schell, C., Bozek, K. **GlomNet: A HoVer Deep Learning model for glomerulus instance segmentation.** In : *2024 IEEE 21th International Symposium on Biomedical Imaging (ISBI)*. IEEE, 2024, p. 1-5. <https://doi.org/10.1109/ISBI56570.2024.10635729>. [PDF](/files/ISBI_2024.pdf) 
+* **Moreau, N.**, Shabani, M., Schell, C., Bozek, K. **GlomNet: A HoVer Deep Learning model for glomerulus instance segmentation.** In : *2024 IEEE 21th International Symposium on Biomedical Imaging (ISBI)*. IEEE, 2024, p. 1-5. <https://doi.org/10.1109/ISBI56570.2024.10635729>. [PDF](/files/ISBI_2024.pdf)   
 **ERA:** A, **Qualis:** B1  
 
 * **Moreau, N.**, Rousseau, C., Fourcade, C., Ferrer, L., Lacombe, M., Guillerminet C., Colombié, M., Campone, M., Jézéquel, P., Rubeaux, M., \& Normand, N. **Can deep learning predict the receptors' status of breast cancer's metastases on PET/CT images?** In : *Annual Congress of the European Association of Nuclear Medicine October 15-19, 2022 Barcelona, Spain.*, Eur J Nucl Med Mol Imaging, 2022, 49 (Suppl 1), EP-460, p. S620-S621. <https://doi.org/10.1007/s00259-022-05924-4>. [PDF](/files/EANM_2022.pdf)  
@@ -28,7 +28,7 @@ author_profile: true
         
 * **Moreau, N.**, Rousseau, C., Fourcade, C., Santini, G., Ferrer, L., Lacombe, M., Guillerminet, C., Jézéquel, P., Campone, M., Normand, N., \& Rubeaux, M. **Comparison between threshold-based and deep learning-based bone segmentation on whole-body CT images.** In : *Medical Imaging 2021: Computer-Aided Diagnosis*, International Society for Optics and Photonics, 2021, vol. 11597, p. 115972U. <https://doi.org/10.1117/12.2580892>. [PDF](/files/SPIE_2021.pdf)  
  
-* Santini, G., Obame, Y. N., Fourcade, C., **Moreau, N.**, \& Rubeaux, M.**Automatic classification of benign and malignant kidney masses using radiomics. A retrospective study exploiting the KiTS19 dataset.** In : *Medical Imaging 2021: Image Processing*, International Society for Optics and Photonics, 2021,  Vol. 11596, p. 115962K. <https://doi.org/10.1117/12.2579901>.
+* Santini, G., Obame, Y. N., Fourcade, C., **Moreau, N.**, \& Rubeaux, M. **Automatic classification of benign and malignant kidney masses using radiomics. A retrospective study exploiting the KiTS19 dataset.** In : *Medical Imaging 2021: Image Processing*, International Society for Optics and Photonics, 2021,  Vol. 11596, p. 115962K. <https://doi.org/10.1117/12.2579901>.
 
 * Santini, G., Fourcade, C., **Moreau, N.**, Rousseau, C., Ferrer, L., Lacombe, M., Fleury, V., Campone M., Jézéquel, P. \& Rubeaux, M. **Unpaired PET/CT image synthesis of liver region using CycleGAN.** In *16th International Symposium on Medical Information Processing and Analysis*,  International Society for Optics and Photonics, 2020, vol. 11583, p. 115830T. <https://doi.org/10.1117/12.2576095>.
 
