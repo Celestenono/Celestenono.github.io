@@ -33,7 +33,6 @@ Research focus: Deep learning for the segmentation and characterization of PET/C
 
 ### 2014 - 2015: First year of Medical School, Angers University, France
 
-<br>
 
 # Supervisions:
 * **February 2024 – June 2024:** Supervised Jacqueline Leal Castillo (Erasmus Mundus Master’s Program) on the topic: “Deep learning-based survival prediction for pancreatic cancer using histopathology images.”
