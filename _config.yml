@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Noémie Moreau"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+#  bio              : "Short biography for the left-hand sidebar"
   location         : "Germany"
   employer         : "Cologne University"
   uri              : # URL
@@ -56,9 +56,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "noémie-moreau-855190138"
+  instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "noémie-moreau-855190138"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
