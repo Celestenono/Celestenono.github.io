@@ -21,10 +21,10 @@ author_profile: true
 
 * **Moreau, N.**, Rousseau, C., Fourcade, C., Ferrer, L., Lacombe, M., Guillerminet C., Colombié, M., Campone, M., Jézéquel, P., Rubeaux, M., \& Normand, N. **Can deep learning predict the receptors' status of breast cancer's metastases on PET/CT images?** In : *Annual Congress of the European Association of Nuclear Medicine October 15-19, 2022 Barcelona, Spain.*, Eur J Nucl Med Mol Imaging, 2022, 49 (Suppl 1), EP-460, p. S620-S621. <https://doi.org/10.1007/s00259-022-05924-4>.
     
-* **Moreau, N.**, Rousseau, C., Fourcade, C., Santini, G., Ferrer, L., Lacombe, M., Guillerminet C., Campone, M., Colombié, M., Rubeaux, M., \& Normand, N. **Influence of inputs for bone lesion segmentation in longitudinal 18F-FDG PET/CT imaging studies.** In : *2022 44nd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)*, IEEE, 2022, p.4736-4739. <https://doi.org/10.1109/EMBC48229.2022.9871081>  
+* **Moreau, N.**, Rousseau, C., Fourcade, C., Santini, G., Ferrer, L., Lacombe, M., Guillerminet C., Campone, M., Colombié, M., Rubeaux, M., \& Normand, N. **Influence of inputs for bone lesion segmentation in longitudinal 18F-FDG PET/CT imaging studies.** In : *2022 44nd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)*, IEEE, 2022, p.4736-4739. <https://doi.org/10.1109/EMBC48229.2022.9871081>.  
 **ERA:** A, **Qualis:** B1
     
-* Fourcade, C., Frenel, J-S., **Moreau, N.**, Santini, G., Brennan, A., Rousseau, C., Lacombe, M., Fleury, V., Colombié, M., Jézéquel, P., Maucherat, B., Campone, M., Mateus, D., Ferrer, L., \& Rubeaux, M. **PERCIST-like response assessment with FDG PET based on automatic segmentation of all lesions in metastatic breast cancer.** In : *American Society of Clinical Oncology (ASCO) Annual Meeting*, Journal of Clinical Oncology, 2022, vol. 40. <http://dx.doi.org/10.1200/JCO.2022.40.16_suppl.e13057>
+* Fourcade, C., Frenel, J-S., **Moreau, N.**, Santini, G., Brennan, A., Rousseau, C., Lacombe, M., Fleury, V., Colombié, M., Jézéquel, P., Maucherat, B., Campone, M., Mateus, D., Ferrer, L., \& Rubeaux, M. **PERCIST-like response assessment with FDG PET based on automatic segmentation of all lesions in metastatic breast cancer.** In : *American Society of Clinical Oncology (ASCO) Annual Meeting*, Journal of Clinical Oncology, 2022, vol. 40. <http://dx.doi.org/10.1200/JCO.2022.40.16_suppl.e13057>.
         
 * **Moreau, N.**, Rousseau, C., Fourcade, C., Santini, G., Ferrer, L., Lacombe, M., Guillerminet, C., Jézéquel, P., Campone, M., Normand, N., \& Rubeaux, M. **Comparison between threshold-based and deep learning-based bone segmentation on whole-body CT images.** In : *Medical Imaging 2021: Computer-Aided Diagnosis*, International Society for Optics and Photonics, 2021, vol. 11597, p. 115972U. <https://doi.org/10.1117/12.2580892>.
  
@@ -46,6 +46,7 @@ author_profile: true
     
 * **Moreau, N.**, Rousseau, C., Ferrer, L., Campone, M., Colombié, M., Normand, N., \& Rubeaux, M. **Comparison between traditional and deep learning-based semi-automatic segmentation methods for metastatic breast cancer lesions monitoring.** *In NTHS-Nuclear Technology for Health Symposium*, 2020. <https://nths2020.sciencesconf.org/data/pages/book_of_abstracts_NTHS_2020.pdf>.
 
-## Challenges
+## Others
 
-* Santini, G., **Moreau, N.**, \& Rubeaux, M. **Kidney tumor segmentation using an ensembling multi-stage deep learning approach. A contribution to the KiTS19 challenge.** *arXiv preprint*, 2019. <https://arxiv.org/pdf/1909.00735.pdf>. 
+* Santini, G., **Moreau, N.**, \& Rubeaux, M. **Kidney tumor segmentation using an ensembling multi-stage deep learning approach. A contribution to the KiTS19 challenge.** *arXiv preprint*, 2019. <https://arxiv.org/pdf/1909.00735.pdf>.
+* **Moreau, N.** **Deep learning methods to segment and characterize PET/CT images in the context of metastatic breast cancer.** *Nantes University*, 2022. <https://theses.hal.science/tel-04232357>.
