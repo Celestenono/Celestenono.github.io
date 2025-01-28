@@ -21,8 +21,7 @@ author_profile: true
 
 * **Moreau, N.**, Rousseau, C., Fourcade, C., Ferrer, L., Lacombe, M., Guillerminet C., Colombié, M., Campone, M., Jézéquel, P., Rubeaux, M., \& Normand, N. **Can deep learning predict the receptors' status of breast cancer's metastases on PET/CT images?** In : *Annual Congress of the European Association of Nuclear Medicine October 15-19, 2022 Barcelona, Spain.*, Eur J Nucl Med Mol Imaging, 2022, 49 (Suppl 1), EP-460, p. S620-S621. <https://doi.org/10.1007/s00259-022-05924-4>.
     
-* **Moreau, N.**, Rousseau, C., Fourcade, C., Santini, G., Ferrer, L., Lacombe, M., Guillerminet C., Campone, M., Colombié, M., Rubeaux, M., \& Normand, N. **Influence of inputs for bone lesion segmentation in longitudinal 18F-FDG PET/CT imaging studies.** In : *2022 44nd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)*, IEEE, 2022, p.4736-4739.
-<https://doi.org/10.1109/EMBC48229.2022.9871081>  
+* **Moreau, N.**, Rousseau, C., Fourcade, C., Santini, G., Ferrer, L., Lacombe, M., Guillerminet C., Campone, M., Colombié, M., Rubeaux, M., \& Normand, N. **Influence of inputs for bone lesion segmentation in longitudinal 18F-FDG PET/CT imaging studies.** In : *2022 44nd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)*, IEEE, 2022, p.4736-4739. <https://doi.org/10.1109/EMBC48229.2022.9871081>  
 **ERA:** A, **Qualis:** B1
     
 * Fourcade, C., Frenel, J-S., **Moreau, N.**, Santini, G., Brennan, A., Rousseau, C., Lacombe, M., Fleury, V., Colombié, M., Jézéquel, P., Maucherat, B., Campone, M., Mateus, D., Ferrer, L., \& Rubeaux, M. **PERCIST-like response assessment with FDG PET based on automatic segmentation of all lesions in metastatic breast cancer.** In : *American Society of Clinical Oncology (ASCO) Annual Meeting*, Journal of Clinical Oncology, 2022, vol. 40. <http://dx.doi.org/10.1200/JCO.2022.40.16_suppl.e13057>
@@ -33,10 +32,10 @@ author_profile: true
 
 * Santini, G., Fourcade, C., **Moreau, N.**, Rousseau, C., Ferrer, L., Lacombe, M., Fleury, V., Campone M., Jézéquel, P. \& Rubeaux, M. **Unpaired PET/CT image synthesis of liver region using CycleGAN.** In *16th International Symposium on Medical Information Processing and Analysis*,  International Society for Optics and Photonics, 2020, vol. 11583, p. 115830T. <https://doi.org/10.1117/12.2576095>.
 
-* **Moreau, N.**, Rousseau, C., Fourcade, C., Santini, G., Ferrer, L., Lacombe, M., Guillerminet C., Campone, M., Colombié, M., Rubeaux, M., \& Normand, N. **Deep learning approaches for bone and bone lesion segmentation on 18F-FDG PET/CT imaging in the context of metastatic breast cancer.** In *2020 42nd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)*,  IEEE, 2020, p. 1532-1535. <https://doi.org/10.1109/EMBC44109.2020.9175904>.
+* **Moreau, N.**, Rousseau, C., Fourcade, C., Santini, G., Ferrer, L., Lacombe, M., Guillerminet C., Campone, M., Colombié, M., Rubeaux, M., \& Normand, N. **Deep learning approaches for bone and bone lesion segmentation on 18F-FDG PET/CT imaging in the context of metastatic breast cancer.** In *2020 42nd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)*,  IEEE, 2020, p. 1532-1535. <https://doi.org/10.1109/EMBC44109.2020.9175904>.  
 **ERA:** A, **Qualis:** B1
  
-* Fourcade, C., Ferrer, L., Santini, G., **Moreau, N.**, Rousseau, C., Lacombe, M., Guillerminet, C., Colombié, M., Campone, M., Mateus, D., \& Rubeaux, M. **Combining Superpixels and Deep Learning Approaches to Segment Active Organs in Metastatic Breast Cancer PET Images.** In : *2020 42nd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)*, IEEE, 2020, p. 1536-1539. <https://doi.org/10.1109/embc44109.2020.9175683>.
+* Fourcade, C., Ferrer, L., Santini, G., **Moreau, N.**, Rousseau, C., Lacombe, M., Guillerminet, C., Colombié, M., Campone, M., Mateus, D., \& Rubeaux, M. **Combining Superpixels and Deep Learning Approaches to Segment Active Organs in Metastatic Breast Cancer PET Images.** In : *2020 42nd Annual International Conference of the IEEE Engineering in Medicine \& Biology Society (EMBC)*, IEEE, 2020, p. 1536-1539. <https://doi.org/10.1109/embc44109.2020.9175683>.  
 **ERA:** A, **Qualis:** B1
 
 
