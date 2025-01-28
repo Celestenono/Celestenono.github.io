@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF](files/CV_nmoreau.pdf) version
+[PDF](/files/CV_nmoreau.pdf) version
 
 # Academic Background
 
