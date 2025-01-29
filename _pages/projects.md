@@ -7,12 +7,12 @@ author_profile: true
 
 {% include base_path %}
 
-## 2024: Survival Prediction Using Pancreatic Tissue Microscopy Images
+## Since 2024: Survival Prediction Using Pancreatic Tissue Microscopy Images
 *Image analysis, deep learning, histopathology, oncology*  
 PANCALYZE project, conducted in collaboration with the University Hospital of Cologne as part of the postdoctoral fellowship at the Cologne Center for Molecular Medicine (CMMC).  
 Developed deep learning algorithms to predict patient survival using tissue microarray images, enabling simultaneous analysis of numerous biopsy samples from multiple patients.
 
-## 2023 - 2024: Automated Segmentation and Characterization of Renal Tissue Microscopy Images
+## Since 2023: Automated Segmentation and Characterization of Renal Tissue Microscopy Images
 *Image analysis, deep learning, histopathology, nephrology*  
 FOrMe project, in collaboration with the University Hospital of Cologne as part of the postdoctoral fellowship at the CMMC.  
 **Contributions:**
