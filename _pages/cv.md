@@ -34,7 +34,6 @@ Deep learning for the segmentation and characterization of PET/CT images in the 
 ## 2014 - 2015: First year of Medical School, Angers University, France
 
 &nbsp;
-&nbsp;
 
 # Supervisions:
 * **February 2024 - June 2024:** M2 internship of Jacqueline Leal Castillo: “Deep learning-based survival prediction for pancreatic cancer using histopathology images.”
