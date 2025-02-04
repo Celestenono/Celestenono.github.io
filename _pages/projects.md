@@ -22,7 +22,7 @@ Development of deep learning algorithms for the analysis of renal tissue to char
 ## 2020 - 2023: Automated Segmentation and Characterization of Lesions in PET/CT Images of Metastatic Breast Cancer Patients
 *Image analysis, deep learning, radiology, oncology*  
 Doctoral Thesis (CIFRE program) conducted with Keosys Medical Imaging, the ICO cancer center, and the LS2N Laboratory as part of the EPICURE project.  
-Development of deep learning algorithms for the segmentation of metastases on longitudinal PET/CT images to assess the response to treatments of patients with a metastatic breast cancer.
+Development of deep learning algorithms for the segmentation of metastases on longitudinal PET/CT images to assess the response to treatments of patients with a metastatic breast cancer.  
 **Contributions:**
 * UNet model for PET/CT lesion segmentation.
 * New method for the segmentation of metastases on longitudinal whole-body PET/CT images.

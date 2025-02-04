@@ -24,8 +24,6 @@ Development of deep learning algorithms for the prediction of patient survival u
 *Image analysis, deep learning, histopathology, nephrology*  
 FOrMe project, in collaboration with the University Hospital of Cologne.  
 Development of deep learning algorithms for the analysis of renal tissue to characterize the nephrotic syndrome.
-**Contributions:**
-* New neural network architectures for glomeruli segmentation, available on [GitHub](https://github.com/bozeklab/GlomNet).
 
 ## To contact me
 You can contact me at nmoreau[at]uni-koeln[dot]de  
